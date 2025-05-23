@@ -1,5 +1,9 @@
-# Project Responsive Web Design using Bootstrap
-## Date:
+```
+NAME : HARIHARAN S
+REGISTER NUMBER: 212224040101
+```
+
+# Ex.10 Responsive Web Design using Bootstrap
 
 ## AIM:
 To create a simplified clone of Dribbble (https://dribbble.com/) landing page.
